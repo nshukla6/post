@@ -1,0 +1,7 @@
+@reduxjs/toolkit
+
+consist of lib
+    -redux(state mngmnt)
+    -immer(allows to mutate state)
+    -redux-thunk(async action)
+    reselect(simplifies reducer fn)
