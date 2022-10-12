@@ -9,7 +9,7 @@ const Home = () => {
   const basket = useSelector(state => state.basket)
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Home Page1</h1>
       {JSON.stringify(basket)}
       <AddPostForm />
       <PostsList />
